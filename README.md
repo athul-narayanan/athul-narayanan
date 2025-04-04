@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @athul-narayanan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 connect with me on athul.narayanan62@gmail.com and https://in.linkedin.com/in/athul-narayanan-965234168
 
