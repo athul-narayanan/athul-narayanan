@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @athul-narayanan
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 connect with me on athul.narayanan62@gmail.com and https://in.linkedin.com/in/athul-narayanan-965234168
+# 👋 Hi, I'm Athul Narayanan  
 
+🚀 **Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast**
 
-<!---
-athul-narayanan/athul-narayanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a software engineer with over **7 years of experience** designing and building scalable systems across **Telecommunication, Retail, and Insurance** domains.  
+I specialize in **Full-Stack Development**, **AI Integration**, **Data Analytics**, and **System Design** — with a focus on performance, security, and maintainable architecture.
+
+---
+
+### 💻 What I Work With
+- **Languages:** Go (Golang), JavaScript, TypeScript  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:**
+
