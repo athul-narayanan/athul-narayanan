@@ -19,8 +19,7 @@ I specialize in **Full-Stack Development**, **AI Integration**, **Data Analytics
 
 ### 🌍 What I'm Passionate About
 - Building secure and scalable cloud-native systems  
-- Integrating **AI and analytics** for intelligent automation  
-- Exploring **blockchain** and **decentralized applications**  
+- Integrating **AI and analytics** for intelligent automation
 - Supporting community-based tech and data projects  
 
 ---
