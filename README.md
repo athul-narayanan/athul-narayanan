@@ -8,11 +8,11 @@ I specialize in **Full-Stack Development**, **AI Integration**, **Data Analytics
 ---
 
 ### 💻 What I Work With
-- **Languages:** Go (Golang), JavaScript, TypeScript  
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Go (Golang), Node.js  
+- **Languages:** Go (Golang), Python, JavaScript, TypeScript  
+- **Frontend:** React, Angular
+- **Backend:** Go (Golang), Python
 - **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes  
-- **Database:** PostgreSQL, MySQL  
+- **Database:** PostgreSQL, Oracle DB
 - **Other:** REST APIs, Microservices, CI/CD  
 
 ---
