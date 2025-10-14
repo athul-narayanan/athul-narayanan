@@ -11,7 +11,7 @@ I specialize in **Full-Stack Development**, **AI Integration**, **Data Analytics
 - **Languages:** Go (Golang), Python, JavaScript, TypeScript  
 - **Frontend:** React, Angular
 - **Backend:** Go (Golang), Python
-- **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes  
+- **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes, Helm
 - **Database:** PostgreSQL, Oracle DB
 - **Other:** REST APIs, Microservices, CI/CD  
 
