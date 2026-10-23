@@ -34,15 +34,15 @@ I specialize in **Full-Stack Development**, **AI Integration**, **Data Analytics
 - Awarded the **Quality Boost Award** for execution excellence on the Cell State Monitoring feature, enabling customers to monitor critical configuration changes.  
 
 **Nordik Institute**  
-- Lead the design and development of an end-to-end data platform on Google Cloud (GCP), including infrastructure provisioning using Terraform and deployment in GKE for the    Shingwauk community, centralizing Critical Data and improving accessibility.
+- Lead the design and development of an end-to-end data platform on **Google Cloud (GCP)**, including infrastructure provisioning using Terraform and deployment in GKE for    the Shingwauk community, centralizing Critical Data and improving accessibility.
 
-- Independently built file management, authentication, and administration microservices in Go, with a focus on data integrity and security.
+- Independently built **file management, authentication, and administration microservices** in **Go**, with a focus on data integrity and security.
 
-- Integrated Google Vertex AI for predictive analytics, making community data search and retrieval faster and more accurate.
+- Integrated **Google Vertex AI** for predictive analytics, making community data search and retrieval faster and more accurate.
 
-- Significantly contributed to the design and development of REST, GraphQL, and gRPC APIs and event-driven services in Go.
+- Significantly contributed to the design and development of **REST, GraphQL, and gRPC APIs** and event-driven services in Go.
 
-- Engineered NIA (Nordik Intelligent Assistant), a chatbot powered by Gemini Flash 2.0, and Golang based RAG implementation designed to answer queries related to the health   and demographic data of Northern Ontario.
+- Engineered NIA (Nordik Intelligent Assistant), a chatbot powered by Gemini Flash 3.0, and **Golang based RAG implementation** designed to answer queries related to the health   and demographic data of Northern Ontario.
 
 ---
 
