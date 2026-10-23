@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Athul Narayanan  
 
-🚀 **Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast**
+🚀 **Software Engineer | Full-Stack Developer |  Cloud & Distributed Systems**
 
-I'm a software engineer with over **7 years of experience** designing and building scalable systems across **Telecommunication, Retail, and Insurance** domains.  
+I'm a software engineer with over **8 years of experience** designing and building scalable systems across **Telecommunication, Retail, and Insurance** domains.  
 I specialize in **Full-Stack Development**, **AI Integration**, **Data Analytics**, and **System Design** — with a focus on performance, security, and maintainable architecture.
 
 ---
@@ -34,7 +34,7 @@ I specialize in **Full-Stack Development**, **AI Integration**, **Data Analytics
 - Awarded the **Quality Boost Award** for execution excellence on the Cell State Monitoring feature, enabling customers to monitor critical configuration changes.  
 
 **Nordik Institute**  
-- Provided technical services to develop **data-driven platforms** for research-based community initiatives.  
+
 
 ---
 
