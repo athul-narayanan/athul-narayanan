@@ -2,8 +2,9 @@
 
 🚀 **Software Engineer | Full-Stack Developer |  Cloud & Distributed Systems**
 
-I'm a software engineer with over **8 years of experience** designing and building scalable systems across **Telecommunication, Retail, and Insurance** domains.  
-I specialize in **Full-Stack Development**, **AI Integration**, **Data Analytics**, and **System Design** — with a focus on performance, security, and maintainable architecture.
+I'm a **backend and full-stack engineer** with over **8 years of experience** designing and building scalable systems across **Telecommunication, Retail, and Insurance** domains.
+
+I specialize in **backend services, API development, and full-stack applications**, with experience in **cloud infrastructure and AI integration**. My focus is on **system design, performance, security, and maintainable architecture**.
 
 ---
 
